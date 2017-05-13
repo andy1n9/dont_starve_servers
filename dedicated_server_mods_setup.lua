@@ -7,9 +7,13 @@
 
 ServerModSetup("347079953")
 ServerModSetup("358749986")
+ServerModSetup("367546858")
 ServerModSetup("374550642")
 ServerModSetup("375859599")
 ServerModSetup("378160973")
+ServerModSetup("458940297")
+ServerModSetup("462469447")
+ServerModSetup("572538624")
 
 
 --ServerModCollectionSetup takes a string of a specific mod's Workshop id. It will download all the mods in the collection and install them to the mod directory on boot.
